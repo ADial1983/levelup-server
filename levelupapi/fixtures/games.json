@@ -1,0 +1,20 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "game_type": 1,
+            "name": "Settlers of Catan",
+            "description": "Settlers of Catan is a strategy board game involving smart resource management."
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "game_type": 3,
+            "name": "World of Warcraft",
+            "description": "Set in the fictional world of Azeroth, WoW allows players to create avatar-style characters and explore a sprawling universe."
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "host": 1,
+            "game": 1,
+            "name": "Catan Club Halloween",
+            "description": "Join us for a night of spooky snacks and a game of Catan!",
+            "date": "2023-10-31 12:30"
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "host": 1,
+            "game": 2,
+            "name": "Allaince Raid Night",
+            "description": "Join other heroes of the alliance for a 25 man raid!",
+            "date": "2023-07-24 9:15"
+        }
+    }
+]
